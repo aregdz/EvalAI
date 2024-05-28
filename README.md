@@ -15,8 +15,7 @@
 ## Технологии
 
 - **Backend**: Python, Django
-- **Frontend**: HTML, CSS, JavaScript, React
-- **База данных**: PostgreSQL
+- **Frontend**: HTML, CSS, JavaScript
 - **Система контроля версий**: Git
 
 ## Установка и запуск
